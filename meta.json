@@ -1,10 +1,10 @@
 {
   "tool_name": "Taja",
-  "affiliate_link": "https://www.taja.ai/?via=marshall",
-  "official_url": "https://www.taja.ai/",
+  "affiliate_link": "https://taja.ai/?via=marshall",
+  "official_url": "https://www.taja.ai",
   "features": [
-    "SEO optimization for videos",
-    "Generates 8 shorts, clips, and text outputs from long-form videos"
+    "Generation of shorts, clips, and text outputs from long form videos",
+    "Creation of 8 shorts, clips, and text outputs for a typical video"
   ],
-  "cta": "\"Transform your videos with ease\""
+  "cta": "Unlock Your Video's Potential Today!"
 }
